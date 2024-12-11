@@ -47,7 +47,7 @@ Mäng on loodud DOS keskkonna jaoks, täpsemalt QBasic programmeerimiskeeles, ar
 1. Tõmba siinne repo endale arvutisse, näiteks kausta `"~/Downloads/hackers world 2"`. Selleks vajuta githubis rohelist nuppu "Code" ja vali "Download ZIP".
 2. Paigalda endale [DOSBox](https://www.dosbox.com)
 3. Käivita DOSBox
-4. Mounti see "Hackers world" mängu kaust DOSBoxis külge kui kataloog "C:\". Selleks kirjuta DOSBox konsoolis: `mount c "~/Downloads/hackers world 1"` (jah, me teame, et seal aknas ei tööta keerulised märgid samade klahvide alt, mis muidu - tuleb katsetada). Ilmuma peaks teade stiilis `Drive C is mounted as local directory /.../Downloads/hackers world 1/`
+4. Mounti see "Hackers world" mängu kaust DOSBoxis külge kui kataloog "C:\". Selleks kirjuta DOSBox konsoolis: `mount c "~/Downloads/hackers world 1"` (jah, me teame, et seal aknas ei tööta keerulised märgid samade klahvide alt, mis muidu - tuleb katsetada. Kui viitsid rohkem jännata, siis [https://www.dosbox.com/DOSBoxManual.html#KeyboardLayout](https://www.dosbox.com/DOSBoxManual.html#KeyboardLayout) peal on õpetus, kuidas saada teisi klaviatuuri paigutusi tööle). Ilmuma peaks teade stiilis `Drive C is mounted as local directory /.../Downloads/hackers world 1/`
 5. Navigeeri DOSBox konsoolil C-kettale: `C:\`
 6. Kui paned nüüd DOSBox konsoolil `dir`, peaks ta näitama vastava kausta sisu, mis näeb välja umbes selline:
 ```
