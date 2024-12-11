@@ -1,0 +1,54 @@
+	×××							×××
+        ×××   		         Welcome to		        ×××
+        ×××							×××
+	×××	        H A C K E R ' S    W O R L D		×××
+	×××							×××
+-----------------------------------------------------------------------
+	×××	        ©1998 Sulev & Urmas Reisberg		×××
+-----------------------------------------------------------------------
+	×××							×××
+	×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+	×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+			
+	   Et mängu käima saada, loe järgnevaid mõtteterasid!
+#Kui kasutad Windows'i:
+	Kõigepealt tee nii:
+	KUI MÄNGID DISKETILT:
+	      Klõpsa "Q-basic.exe" ikoonil parempoolset hiire nuppu
+	      ja siis vali tekkinud menüüst "Properties". Nüüd vali
+	      tekkinud leheküljelt "Program". "Cmd line" reale kirjuta
+	      nii:  A:\Hackers\qbasic.exe 
+	      "Working" reale kirjuta:  A:\Hackers
+	      Ja nüüd klõpsa OK.
+	KUI MÄNGID KÕVAKETTALT:	  
+	      Kopeeri disketilt kataloog "Hackers" oma kõvakettale
+	      ja jäta meelde selle command line (nt C:\Games\Hackers).
+	      Nüüd tee kõik samamoodi nagu kirjeldatud disketilt
+	      mängimiseks, va see, et "Cmd line"-le kirjuta enne meelde
+	      jäetud command line + "\qbasic.exe" 
+	      (nt C:\Games\Hackers\qbasic.exe) ja "Working" reale
+		  jällegi command line (C:\Games\Hackers).
+	MÄNGIMISEKS:
+	Topeltklõps "Qbasic" ikoonil. Nüüd "File" ja siis "Load" ja
+	siis tekkinud nimekirjas "Hackersw.hac".
+	Nüüd pressi klahvi "F5" ja naudi mängu!
+	
+	Üldiselt võib siin ette tulla veel mitmesuguseid probleeme,
+	aga nendest pikemalt kirjutada pole mõtet. Püüa selgitust saada
+	mõnelt oma healt sõbralt.
+	
+
+#Ühesõnaga, Hacker's World jookseb ainult siis normaalselt, kui sul
+on 166MMX prose. Kui on aeglasem, siis jääb ka mäng aeglaseks, kui on 
+aga parem prose, on ka mäng vist liiga kiire!
+
+# Mängu põhimõte - Sina pead enamjaolt vajutama F-nuppe (F1,F2,F3 jne)
+  ja peale F-i ENTERit. (st F-d on vastusevariandid). Aga muidu ei tasu
+eriti närviline olla, eriti mitte nuppe taguda!!!!!!
+	Ja teiseks veel see, et kui midagi küsitaxe, siis vastake
+küsimusele, mitte ärge toppige teisi ebanormaalseid sõnu!
+
+# Vabandame ebanormaalsuste pärast!
+
+# Mängi ja veendu kõiges ise!!!
+						MÄNGU AUTORID

@@ -1,0 +1,3 @@
+# Vihje Mission 6 läbimiseks
+
+Proovi aga kõik downloaditavad asjad läbi ning vaata, kuidas sa saad russiasofti paget kräkkida või muuta....

@@ -1,0 +1,8 @@
+#Selleks, et ka sinu sugusel lollpeal oleks võimalik see mäng läbi
+ teha, mõtlesime me välja mõned cheadid:
+	Oma nimeks kirjuta:
+		rahaautomaat - powerpunktid ja teine Mission
+		dire - vupsti kolmandasse Missionisse
+		kommunist - neljas Mission nagu naksti
+		
+		iamthewinner - vali vaid ise oma Mission

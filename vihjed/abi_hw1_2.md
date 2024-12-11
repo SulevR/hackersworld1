@@ -1,0 +1,3 @@
+# Vihje Mission 2 läbimiseks
+
+Kuna probleemseks tegelaskujuks on selles missioonis ÕPETAJA, siis tuleks esmalt leida üles selline Tuudkooli külg, kus muuhulgas figureeriks ka õpetajad. Kuna selgub, et antud küljel midagi asjalikku kräkkida-häkkida niisama lihtsalt ei saa, tuleb abi oodata kõikidelt kaasõpilastelt, sest tavaliselt on just nemad need, kes õpetajate vastu suunatud tegevust rõõmsahäälselt toetavad. ÕPILASI leiad tavaliselt klassiruumidset ja erandiks pole ka Tuudkool. Eks uuri ja puuri, mida nad seal ruumides siis huvitavat räägivad ning küll siis taipad, et missiooni eesmärgi saavutamine muutub tunduvalt lihtsamaks! :)

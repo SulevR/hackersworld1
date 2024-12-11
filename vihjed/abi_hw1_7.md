@@ -1,0 +1,3 @@
+# Vihje Mission 7 läbimiseks
+
+Asja iva saab alguse ikka sellest jututoast, kus tuleb tähele panna, et saadetud sõnumites peitub mingisugune side. Nimelt on lisaks tuhandetele fännidele olemas ka seltskond, kes sihikindlalt kõike Raadiotupsudega seotut maha teevad. Neil on oma klubi isegi. Jututoas on vahel rääkimas Pille ja Kalle. Nendega tulekski üheudst võtta. Protsessi lihtsustab mõneti see, et pideva häkkimise-kräkkimise käigus unustavad Pille ja Kalle tihti kõik ettevaatusabinõud ning vestlevad otse vaatajate silme all. Nii et Mängija ülesandeks oleks pidevalt ühelt lk-lt teisele siiberdada ning ära tabada nende tegude tulevased plaanid... Nojah, nende jutus peitub tõde.
