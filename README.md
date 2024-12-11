@@ -4,6 +4,26 @@ See repositoorium sisaldab arvutimängu "Hackers World" mängude sarja 1. osa l�
 
 Mängule tehtud järg "Hackers Worldi II" on saadaval [eraldi repos](https://github.com/SulevR/hackersworld2).
 
+## Mängu reklaam
+
+Soovid midagi uut ja huvitavat?
+
+Tahad lahendada probleeme jõu ja arukusega?
+
+Tahad mängimisel kasutada ka mõistust?
+
+SOOVID, ET ELU OLEKS VEELGI KIIREM?
+
+OTSID KÕIKJALT RISKI JA OHTUSID?
+
+Oled nõus pingutama oma elu suurima eesmärgi nimel?
+
+SIIN ON KIIREIM VÕIMALUS!!!!
+
+VEENDU ISE!
+
+NAUDI EESTLASTE TEHTUD MÄNGU JA SA EI KAHETSE IIAL!
+
 ## Mängu põhimõte
 
 Sina pead enamjaolt vajutama F-nuppe (F1, F2, F3 jne) (Macis tuleb seda teha koos Fn-klahviga) ja peale F-i ENTERit (st F-d on vastusevariandid). Aga muidu ei tasu eriti närviline olla, eriti mitte nuppe taguda!!!!!!
